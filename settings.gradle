@@ -1,0 +1,6 @@
+include ':kalkulator-common'
+include ':kalkulator-js'
+include ':kalkulator-jvm'
+include ':kalkulator-native'
+
+include ':app_node'

@@ -1,0 +1,15 @@
+### Gradle / Build ###
+.gradle/
+.idea/*
+build/
+
+### Android Studio / Intellij ###
+
+*.iml
+
+### Js Build ###
+node_modules/
+package-lock.json
+
+### Apple / macOS ###
+.DS_Store
