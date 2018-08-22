@@ -49,7 +49,6 @@ class Calculator {
 
         val leftSide = calc(input.subList(0, operatorPos))
         val rightSide = calc(input.subList(operatorPos + 1, input.size))
-        println("$leftSide ${operator.toChar()} $rightSide")
 
         return when (operator) {
             Input.Operator.MINUS -> (leftSide ?: 0) - (rightSide ?: 0)
