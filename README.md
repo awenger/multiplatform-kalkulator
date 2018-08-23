@@ -1,9 +1,9 @@
 # multiplatform-kalkulator
 
 Basic functionality of a pocket calculator.
-This project showcases the multi platform capabilities of Kotlin and was build as part of the "fun onAllPlatforms() : Kotlin" talk.
+This project showcases the multi platform capabilities of Kotlin and was build as part of the `fun onAllPlatforms() : Kotlin` talk.
 
-## kalkulator-native
+## kalkulator-common
 Contains the actual implementation of the calculator logic
 
 ## kalkulator-[js|jvm|native]
